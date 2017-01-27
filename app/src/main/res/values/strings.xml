@@ -15,7 +15,7 @@
     <string name="action_exit">Close</string>
 
     <!-- Links -->
-    <string name="link_share">"Baixa grátis o calendário de pagamento do bolsa familia em: https://play.google.com/store/apps/details?id={packageName}"</string>
+    <string name="link_share">"Download free now Vibrator: https://play.google.com/store/apps/details?id={packageName}"</string>
     <string name="link_rate">market://details?id={marketId}</string>
     <string name="link_more">"https://play.google.com/store/apps/developer?id=Data+ZipExt"</string>
 
