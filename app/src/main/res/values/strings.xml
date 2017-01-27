@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Vibrator</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Texto -->
+    <string name="text_intensity">Intensity</string>
+    <string name="text_pause">Pause</string>
+    <string name="text_intensity_set">Intensity ({seconds})</string>
+    <string name="text_interval_set">Pause ({seconds})</string>
+
+    <!-- Menu -->
+    <string name="action_share">Share</string>
+    <string name="action_rate">Rate</string>
+    <string name="action_more">More Apps</string>
+    <string name="action_exit">Close</string>
+
+    <!-- Links -->
+    <string name="link_share">"Baixa grátis o calendário de pagamento do bolsa familia em: https://play.google.com/store/apps/details?id={packageName}"</string>
+    <string name="link_rate">market://details?id={marketId}</string>
+    <string name="link_more">"https://play.google.com/store/apps/developer?id=Data+ZipExt"</string>
+
+    <!-- Ads -->
+    <string name="intersectial_uid">ca-app-pub-9586274858745499/1664372763</string>
+    <string name="banner_uid">ca-app-pub-9586274858745499/9187639564</string>
+    <string name="banner_size">FLUID</string>
+</resources>
