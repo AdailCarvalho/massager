@@ -168,7 +168,8 @@ public class Vibrator extends AppCompatActivity {
         int id = item.getItemId();
 
         if (id == R.id.action_rate) {
-            startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(getString(R.string.link_rate) + getPackageName())));
+            startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(getString(R.string.link_rate)
+                    .replace("{marketId}", getPackageName()))));
             return true;
         } else if (id == R.id.action_exit) {
             try {
